@@ -1,0 +1,98 @@
+Time: 0
+Chances: 0
+Score: 3010
+Obstacle: WallMaria x: 160.0 y: 135.0
+Obstacle: WallMaria x: 640.0 y: 485.0
+Obstacle: WallMaria x: 241.0 y: 385.0
+Obstacle: WallMaria x: 640.0 y: 335.0
+Obstacle: WallMaria x: 320.0 y: 285.0
+Obstacle: WallMaria x: 400.0 y: 35.0
+Obstacle: WallMaria x: 160.0 y: 235.0
+Obstacle: WallMaria x: 321.0 y: 485.0
+Obstacle: WallMaria x: 81.0 y: 285.0
+Obstacle: WallMaria x: 240.0 y: 35.0
+Obstacle: WallMaria x: 720.0 y: 485.0
+Obstacle: WallMaria x: 321.0 y: 135.0
+Obstacle: WallMaria x: 80.0 y: 235.0
+Obstacle: WallMaria x: 1040.0 y: 135.0
+Obstacle: WallMaria x: 960.0 y: 435.0
+Obstacle: WallMaria x: 240.0 y: 85.0
+Obstacle: WallMaria x: 320.0 y: 235.0
+Obstacle: WallMaria x: 880.0 y: 335.0
+Obstacle: WallMaria x: 800.0 y: 85.0
+Obstacle: WallMaria x: 320.0 y: 435.0
+Obstacle: WallMaria x: 1120.0 y: 35.0
+Obstacle: WallMaria x: 880.0 y: 385.0
+Obstacle: WallMaria x: 320.0 y: 35.0
+Obstacle: WallMaria x: 960.0 y: 235.0
+Obstacle: WallMaria x: 241.0 y: 185.0
+Obstacle: WallMaria x: 721.0 y: 185.0
+Obstacle: WallMaria x: 160.0 y: 485.0
+Obstacle: WallMaria x: 720.0 y: 135.0
+Obstacle: WallMaria x: 641.0 y: 285.0
+Obstacle: WallMaria x: 161.0 y: 85.0
+Obstacle: WallMaria x: 480.0 y: 35.0
+Obstacle: WallMaria x: 641.0 y: 35.0
+Obstacle: WallMaria x: 241.0 y: 135.0
+Obstacle: WallMaria x: 1041.0 y: 285.0
+Obstacle: WallMaria x: 880.0 y: 435.0
+Obstacle: WallMaria x: 321.0 y: 185.0
+Obstacle: WallMaria x: 960.0 y: 485.0
+Obstacle: WallMaria x: 560.0 y: 185.0
+Obstacle: WallMaria x: 800.0 y: 185.0
+Obstacle: WallMaria x: 640.0 y: 185.0
+Obstacle: WallMaria x: 1040.0 y: 435.0
+Obstacle: WallMaria x: 400.0 y: 135.0
+Obstacle: WallMaria x: 881.0 y: 135.0
+Obstacle: WallMaria x: 80.0 y: 485.0
+Obstacle: WallMaria x: 1041.0 y: 85.0
+Obstacle: WallMaria x: 80.0 y: 435.0
+Obstacle: WallMaria x: 160.0 y: 385.0
+Obstacle: WallMaria x: 1040.0 y: 335.0
+Obstacle: WallMaria x: 240.0 y: 435.0
+Obstacle: WallMaria x: 241.0 y: 335.0
+Obstacle: WallMaria x: 960.0 y: 385.0
+Obstacle: WallMaria x: 880.0 y: 185.0
+Obstacle: WallMaria x: 400.0 y: 85.0
+Obstacle: SteinsGate x: 80.0 y: 135.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 160.0 y: 285.0 Remaining Chances: 1
+Obstacle: SteinsGate x: 1120.0 y: 135.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 480.0 y: 235.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 1120.0 y: 435.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 160.0 y: 335.0 Remaining Chances: 1
+Obstacle: SteinsGate x: 800.0 y: 35.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 240.0 y: 485.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 640.0 y: 135.0 Remaining Chances: 1
+Obstacle: SteinsGate x: 160.0 y: 435.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 81.0 y: 335.0 Remaining Chances: 5
+Obstacle: SteinsGate x: 400.0 y: 185.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 560.0 y: 335.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 480.0 y: 185.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 560.0 y: 135.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 240.0 y: 235.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 401.0 y: 485.0 Remaining Chances: 4
+Obstacle: PandorasBox x: 171.0 y: 187.0
+Obstacle: PandorasBox x: 1131.0 y: 237.0
+Obstacle: PandorasBox x: 1131.0 y: 387.0
+Obstacle: PandorasBox x: 91.0 y: 87.0
+Obstacle: PandorasBox x: 251.0 y: 287.0
+Obstacle: PandorasBox x: 411.0 y: 237.0
+Obstacle: PandorasBox x: 1131.0 y: 187.0
+Obstacle: PandorasBox x: 1051.0 y: 37.0
+Obstacle: PandorasBox x: 731.0 y: 87.0
+Obstacle: PandorasBox x: 971.0 y: 187.0
+Obstacle: GiftBox x: 720.0 y: 235.0
+Obstacle: GiftBox x: 80.0 y: 385.0
+Obstacle: GiftBox x: 560.0 y: 235.0
+Obstacle: GiftBox x: 320.0 y: 385.0
+Obstacle: GiftBox x: 960.0 y: 285.0
+Obstacle: GiftBox x: 640.0 y: 235.0
+Obstacle: GiftBox x: 480.0 y: 135.0
+Obstacle: GiftBox x: 960.0 y: 35.0
+Obstacle: GiftBox x: 560.0 y: 85.0
+Obstacle: GiftBox x: 400.0 y: 335.0
+Obstacle: GiftBox x: 880.0 y: 485.0
+Obstacle: GiftBox x: 80.0 y: 185.0
+Obstacle: GiftBox x: 640.0 y: 85.0
+Noble phantasm is expanded?: false
+Enchanted sphere is unstoppable?: false

@@ -1,0 +1,77 @@
+Time: 301
+Chances: 3
+Score: 3030
+Obstacle: WallMaria x: 960.0 y: 85.0
+Obstacle: WallMaria x: 800.0 y: 335.0
+Obstacle: WallMaria x: 80.0 y: 135.0
+Obstacle: WallMaria x: 399.0 y: 285.0
+Obstacle: WallMaria x: 80.0 y: 435.0
+Obstacle: WallMaria x: 720.0 y: 385.0
+Obstacle: WallMaria x: 399.0 y: 435.0
+Obstacle: WallMaria x: 800.0 y: 35.0
+Obstacle: WallMaria x: 800.0 y: 85.0
+Obstacle: WallMaria x: 639.0 y: 235.0
+Obstacle: WallMaria x: 160.0 y: 485.0
+Obstacle: WallMaria x: 1039.0 y: 385.0
+Obstacle: WallMaria x: 320.0 y: 135.0
+Obstacle: WallMaria x: 640.0 y: 435.0
+Obstacle: WallMaria x: 559.0 y: 335.0
+Obstacle: WallMaria x: 1120.0 y: 385.0
+Obstacle: WallMaria x: 80.0 y: 335.0
+Obstacle: WallMaria x: 240.0 y: 335.0
+Obstacle: WallMaria x: 240.0 y: 435.0
+Obstacle: WallMaria x: 240.0 y: 185.0
+Obstacle: WallMaria x: 400.0 y: 485.0
+Obstacle: WallMaria x: 80.0 y: 385.0
+Obstacle: WallMaria x: 400.0 y: 235.0
+Obstacle: WallMaria x: 160.0 y: 335.0
+Obstacle: WallMaria x: 159.0 y: 35.0
+Obstacle: WallMaria x: 240.0 y: 135.0
+Obstacle: WallMaria x: 559.0 y: 235.0
+Obstacle: WallMaria x: 479.0 y: 85.0
+Obstacle: WallMaria x: 80.0 y: 185.0
+Obstacle: WallMaria x: 720.0 y: 285.0
+Obstacle: WallMaria x: 720.0 y: 185.0
+Obstacle: WallMaria x: 479.0 y: 435.0
+Obstacle: WallMaria x: 319.0 y: 485.0
+Obstacle: WallMaria x: 720.0 y: 485.0
+Obstacle: WallMaria x: 1040.0 y: 435.0
+Obstacle: WallMaria x: 640.0 y: 135.0
+Obstacle: WallMaria x: 320.0 y: 85.0
+Obstacle: WallMaria x: 960.0 y: 485.0
+Obstacle: WallMaria x: 960.0 y: 135.0
+Obstacle: SteinsGate x: 320.0 y: 235.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 400.0 y: 385.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 480.0 y: 135.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 639.0 y: 185.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 560.0 y: 185.0 Remaining Chances: 5
+Obstacle: SteinsGate x: 880.0 y: 35.0 Remaining Chances: 1
+Obstacle: SteinsGate x: 720.0 y: 135.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 320.0 y: 385.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 800.0 y: 135.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 960.0 y: 435.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 240.0 y: 485.0 Remaining Chances: 2
+Obstacle: SteinsGate x: 320.0 y: 285.0 Remaining Chances: 5
+Obstacle: SteinsGate x: 319.0 y: 185.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 80.0 y: 235.0 Remaining Chances: 3
+Obstacle: SteinsGate x: 240.0 y: 385.0 Remaining Chances: 4
+Obstacle: SteinsGate x: 720.0 y: 235.0 Remaining Chances: 4
+Obstacle: PandorasBox x: 1113.0 y: 343.0
+Obstacle: PandorasBox x: 793.0 y: 193.0
+Obstacle: PandorasBox x: 153.0 y: 443.0
+Obstacle: PandorasBox x: 393.0 y: 193.0
+Obstacle: PandorasBox x: 953.0 y: 43.0
+Obstacle: PandorasBox x: 793.0 y: 393.0
+Obstacle: PandorasBox x: 633.0 y: 93.0
+Obstacle: PandorasBox x: 73.0 y: 43.0
+Obstacle: PandorasBox x: 153.0 y: 243.0
+Obstacle: PandorasBox x: 793.0 y: 293.0
+Obstacle: PandorasBox x: 233.0 y: 43.0
+Obstacle: PandorasBox x: 153.0 y: 393.0
+Obstacle: PandorasBox x: 553.0 y: 43.0
+Obstacle: GiftBox x: 560.0 y: 135.0
+Obstacle: GiftBox x: 1120.0 y: 485.0
+Obstacle: GiftBox x: 1040.0 y: 485.0
+Obstacle: GiftBox x: 80.0 y: 485.0
+Noble phantasm is expanded?: true
+Enchanted sphere is unstoppable?: true
